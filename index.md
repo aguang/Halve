@@ -1,8 +1,5 @@
 ---
 layout: home
-title: About
-permalink: /
-published: true
 ---
 August Guang. PhD Candidate in Applied Mathematics and Computational Molecular Biology at Brown University. I study probability theory and phylogenetics, specifically how uncertainty in the upstream components of a phylogenetic analysis such as assembly and homology affect uncertainty in the downstream components such as gene trees and species trees. My resume is available [here](aguang.github.io/public-resume.pdf "resume").
 
