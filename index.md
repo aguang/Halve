@@ -1,10 +1,13 @@
 ---
 layout: home
+title: About
+permalink: /
+published: true
 ---
-# About Theme
+August Guang. PhD Candidate in Applied Mathematics and Computational Molecular Biology at Brown University. I study probability theory and phylogenetics, specifically how uncertainty in the upstream components of a phylogenetic analysis such as assembly and homology affect uncertainty in the downstream components such as gene trees and species trees. My resume is available [here](aguang.github.io/public-resume.pdf "resume").
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+When I'm not working on my dissertation, I coordinate QT (Queer & Trans) Thursdays at the [Providence Youth Student Movement (PrYSM)](http://prysm.us), a weekly space for queer youth of color.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+### Contact me
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+[august_guang@brown.edu](august_guang@brown.edu) - academic
