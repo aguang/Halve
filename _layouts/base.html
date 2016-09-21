@@ -3,10 +3,10 @@
 ---
 <!DOCTYPE html>
 <html>
-{% include layout/head.html %}
+{% include head.html %}
 <body id="{{ layout.id }}" class="{{ page.pageId }}">
 
-  {% include layout/sidebar.html %}
+  {% include sidebar.html %}
 
   <main>
     <section id="left">
@@ -44,7 +44,7 @@
 
   </main>
 
-  {% include layout/scripts.html %}
+  {% include scripts.html %}
 
   {% if layout.scripts %}
     {% assign scripts = layout.scripts %}
